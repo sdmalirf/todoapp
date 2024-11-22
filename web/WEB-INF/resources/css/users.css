@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 14px;
+    border-collapse: collapse;
+    text-align: center;
+}
+th, td:first-child {
+    background: #AFCDE7;
+    color: white;
+    padding: 10px 20px;
+}
+th, td {
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    border-color: white;
+}
+td {
+    background: #D8E6F3;
+}
+th:first-child, td:first-child {
+    text-align: left;
+}
+
+a {
+    padding: 10px;
+    font-size: 15px;
+}
+
+.deleteMessage {
+    background-color: #AFCDE7;
+    font-size: 25px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px grey;
+    margin: 50px auto;
+    width: max-content;
+}

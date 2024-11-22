@@ -1,0 +1,49 @@
+.header {
+    display: grid;
+    grid-template-columns: 75% 5% 5% 5% 5% 5%;
+}
+
+.img {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-right: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.profile {
+    width: 100%;
+    margin: auto;
+    font-size: 25px;
+}
+
+.user {
+    text-align: right;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-right: 10px;
+    font-size: 25px;
+}
+
+.users {
+    width: 100%;
+    margin: auto;
+    font-size: 25px;
+}
+
+.tasks {
+    width: 100%;
+    margin: auto;
+    font-size: 25px;
+}
+
+.logout {
+    width: 100%;
+    margin: auto;
+    font-size: 25px;
+}
+
+.header button {
+    font-size: 20px;
+}
+
